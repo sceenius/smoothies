@@ -8,10 +8,13 @@
 
 <script>
 import Navbar from '@/components/Navbar'
+import AddSmoothie from '@/components/AddSmoothie'
+
 export default {
   name: 'App',
   components: {
-    Navbar
+    Navbar,
+    AddSmoothie
   }
 }
 </script>
